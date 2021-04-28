@@ -1,6 +1,6 @@
 
   Pod::Spec.new do |s|
-    s.name = 'ClipboardHealthCapacitorAppAnalytics'
+    s.name = 'ClipboardHealthCapacitorAppAnalytic'
     s.version = '0.0.2'
     s.summary = 'UXCam and FullStory app analytics'
     s.license = 'MIT'
